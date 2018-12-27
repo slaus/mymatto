@@ -1,7 +1,7 @@
 /*!
  * All styles for site
  */
-@import url("https://fonts.googleapis.com/css?family=M+PLUS+1p:100,400,700");
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700");
 @font-face {
   font-family: "Glyphicons Halflings";
   font-style: "normal";
@@ -26,9 +26,8 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: 'M PLUS 1p', sans-serif;
-  font-weight: 100;
-  font-variant: small-caps;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
   font-size: 14px;
   overflow-x: hidden; }
 
@@ -269,7 +268,7 @@ button {
   height: 16px;
   font-size: 22px;
   margin: 23px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 100;
   text-decoration: none;
   white-space: nowrap;
@@ -342,13 +341,13 @@ button {
   flex-direction: column; }
 
 .wrapper-global .header .header-info .header-info-wrap .header-info-item .logo .logo-title span {
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 26px;
   text-align: left; }
 
 .wrapper-global .header .header-info .header-info-wrap .header-info-item .logo .logo-title .thin-word {
   font-size: 21px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400; }
 
 .wrapper-global .header .header-info .header-info-wrap .header-info-item .button-header {
@@ -366,7 +365,7 @@ button {
   align-items: center;
   text-transform: uppercase;
   flex-direction: column;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 14px;
   transition: .3s; }
@@ -384,7 +383,7 @@ button {
   color: #363636;
   font-size: 31px;
   line-height: 30px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 100;
   position: relative; }
 
@@ -394,7 +393,7 @@ button {
   width: 100%;
   text-align: right;
   height: 20px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   margin-bottom: 10px;
   display: flex;
@@ -451,7 +450,7 @@ button {
   text-transform: uppercase;
   width: 100%;
   max-width: fit-content;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 34px;
   margin: 0 0 0 8%;
   z-index: 99;
@@ -463,7 +462,7 @@ button {
   font-weight: 400;
   width: 100%;
   max-width: fit-content;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 24px;
   margin: 0 0 0 8%;
   z-index: 99;
@@ -554,7 +553,7 @@ button {
 .wrapper-global .section-calculate form .head-form {
   font-size: 24px;
   letter-spacing: 2px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   text-transform: uppercase; }
 
@@ -584,7 +583,7 @@ button {
   font-size: 18px;
   font-weight: 700;
   letter-spacing: 1px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700; }
 
 .wrapper-global .section-calculate form .input-block .input-block-item input {
@@ -633,7 +632,7 @@ input::-webkit-inner-spin-button, input::-webkit-outer-spin-button {
   justify-content: flex-start;
   align-items: center;
   padding-left: 20px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400; }
 
 .wrapper-global .section-calculate form .input-block .input-block-item .my-select-area .fa {
@@ -659,18 +658,18 @@ input::-webkit-inner-spin-button, input::-webkit-outer-spin-button {
   display: flex;
   justify-content: space-between;
   font-size: 30px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700; }
 
 .wrapper-global .section-calculate form .second-item-line .sum-block .sum-wrap {
   font-size: 24px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400; }
 
 .wrapper-global .section-calculate form .second-item-line .sum-block .sum-wrap .blue-color {
   margin-right: 30px;
   font-size: 30px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700; }
 
 .wrapper-global .section-calculate form .second-item-line .sum-block .rub-item {
@@ -691,7 +690,7 @@ form .sub-but {
   background: #6797d9;
   color: #fff;
   font-size: 18px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   transition: .3s;
   white-space: nowrap;
@@ -722,7 +721,7 @@ form .sub-but:hover {
   display: flex;
   width: 100%;
   justify-content: space-between;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 18px; }
 
@@ -811,7 +810,7 @@ input[type=range]::-ms-fill-upper {
 
 .product-list .wrapper-content-product h2 {
   font-size: 24px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   text-align: center;
   margin-top: 46px;
   margin-bottom: 33px;
@@ -893,7 +892,7 @@ input[type=range]::-ms-fill-upper {
 
 .product-list .wrapper-content-product p {
   font-size: 18px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400; }
 
 .product-list .product-grid {
@@ -939,7 +938,7 @@ input[type=range]::-ms-fill-upper {
   -ms-align-items: center;
   align-items: center;
   font-size: 24px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700; }
 
 .product-list .product-grid .product-item .title-product span {
@@ -991,7 +990,7 @@ input[type=range]::-ms-fill-upper {
 .product-list .product-grid .product-item .price-product .blue-color {
   margin: 0 auto;
   font-size: 21px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   position: relative;
   text-transform: lowercase; }
@@ -1029,7 +1028,7 @@ input[type=range]::-ms-fill-upper {
 
 .sale-section .wrapper-sale .left-item h4 {
   font-size: 24px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   width: 100%;
   text-align: center;
   margin-top: 33px; }
@@ -1082,7 +1081,7 @@ input[type=range]::-ms-fill-upper {
   justify-content: normal; }
 
 .sale-section .wrapper-sale .right-form .image-form h5 {
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 18px;
   color: #626161;
   text-align: center;
@@ -1109,7 +1108,7 @@ input[type=range]::-ms-fill-upper {
   text-align: center;
   font-size: 18px;
   color: #363636;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400;
   margin-bottom: 20px;
   border: none; }
@@ -1128,7 +1127,7 @@ input[type=range]::-ms-fill-upper {
   color: #fff;
   border: none;
   font-size: 24px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   width: 392px;
   height: 68px;
@@ -1164,7 +1163,7 @@ input[type=range]::-ms-fill-upper {
   flex-direction: column; }
 
 .five-s .wrapper-content h3 {
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 24px;
   text-align: center;
@@ -1220,7 +1219,7 @@ input[type=range]::-ms-fill-upper {
 
 .five-s .wrapper-content .wrapper-five-ects .five-ects-item h5 {
   font-size: 18px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin-top: 20px;
@@ -1229,7 +1228,7 @@ input[type=range]::-ms-fill-upper {
 .five-s .wrapper-content .wrapper-five-ects .five-ects-item p {
   font-size: 18px;
   text-align: center;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400; }
 
 .cases {
@@ -1281,7 +1280,7 @@ input[type=range]::-ms-fill-upper {
 .cases .cases-wrapper .cases-item h5 {
   width: 100%;
   font-size: 18px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   text-align: left;
@@ -1289,7 +1288,7 @@ input[type=range]::-ms-fill-upper {
   margin-bottom: 20px; }
 
 .cases .cases-wrapper .cases-item .enter-cases {
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 18px;
   width: 100%;
@@ -1305,16 +1304,16 @@ input[type=range]::-ms-fill-upper {
   list-style-type: square;
   margin-bottom: 5px;
   color: #4f4f4f;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400; }
 
 .cases .cases-wrapper .cases-item .cases-details li {
   list-style-type: none;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700; }
 
 .cases .cases-wrapper .cases-item .cases-details li span, .cases .cases-wrapper .cases-item .cases-info {
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400; }
 
 .cases .cases-ask-final {
@@ -1329,7 +1328,7 @@ input[type=range]::-ms-fill-upper {
   -ms-align-items: center;
   align-items: center;
   cursor: pointer;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   transition: .3s; }
 
@@ -1351,7 +1350,7 @@ input[type=range]::-ms-fill-upper {
   text-align: center;
   text-transform: uppercase;
   font-size: 24px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   margin-top: 80px;
   margin-bottom: 60px; }
@@ -1399,7 +1398,7 @@ input[type=range]::-ms-fill-upper {
 
 .wework .wework-wrap .wework-item .wework-num-item .bignum {
   font-size: 48px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #6797d9;
   margin-right: 10px;
   font-weight: 700; }
@@ -1408,7 +1407,7 @@ input[type=range]::-ms-fill-upper {
   text-transform: uppercase;
   font-size: 14px;
   line-height: 18px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700; }
 
 .wework .wework-wrap .wework-item .wework-item-comment {
@@ -1421,10 +1420,11 @@ input[type=range]::-ms-fill-upper {
   position: absolute;
   height: 40px;
   bottom: -40px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 16px;
-  line-height: 20px; }
+  line-height: 20px;
+  text-align: center; }
 
 #certificate {
   background: #4f4f4f; }
@@ -1451,7 +1451,7 @@ input[type=range]::-ms-fill-upper {
 
 .wework .wework-wrap .wework-item .wework-item-comment .blue-color {
   font-size: 16px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700; }
 
 .wework .wework-wrap .wework-item img {
@@ -1470,7 +1470,7 @@ input[type=range]::-ms-fill-upper {
   justify-content: center;
   -ms-align-items: center;
   align-items: center;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   color: #fff;
   transition: .3s; }
@@ -1502,7 +1502,7 @@ input[type=range]::-ms-fill-upper {
 
 .trash .trash-wrapper .trash-title {
   width: 100%;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 24px;
   text-align: center;
@@ -1568,13 +1568,13 @@ input[type=range]::-ms-fill-upper {
   margin: 3px; }
 
 .tell h6 {
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   margin-top: 0; }
 
 .tell p {
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400;
   line-height: 22px;
   text-align: left;
@@ -1632,14 +1632,14 @@ input[type=range]::-ms-fill-upper {
 .contact .line-form .form-wrapper .left-item-form h4 {
   font-size: 25px;
   text-transform: uppercase;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   text-align: left;
   margin-bottom: 23px; }
 
 .contact .line-form .form-wrapper .left-item-form p {
   font-size: 25px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   max-width: 500px; }
 
 .contact .line-form .form-wrapper .right-item-form {
@@ -1658,12 +1658,12 @@ input[type=range]::-ms-fill-upper {
   align-items: center;
   flex-direction: column;
   box-shadow: 0 0 25px rgba(0, 0, 0, 0.75);
-  z-index: 99; }
+  z-index: 98; }
 
 .contact .line-form .form-wrapper .right-item-form h4 {
   text-align: center;
   width: 100%;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 300;
   font-size: 18px;
   padding: 15px 15%;
@@ -1688,14 +1688,14 @@ input[type=range]::-ms-fill-upper {
   height: 63px;
   text-align: center;
   font-size: 18px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400; }
 
 .contact .line-form .form-wrapper .right-item-form form .subformcont {
   width: 377px;
   height: 63px;
   margin-top: 25px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   color: #fff;
@@ -1714,12 +1714,15 @@ input[type=range]::-ms-fill-upper {
   font-size: 24px;
   margin-bottom: 50px;
   text-transform: uppercase;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   text-align: center; }
 
 .contact .map-site .mapinsite {
   position: relative; }
+  @media screen and (max-width: 549px) {
+    .contact .map-site .mapinsite iframe {
+      height: 400px; } }
 
 .contact .map-site .mapinsite .side-contact {
   width: 460px;
@@ -1776,7 +1779,7 @@ input[type=range]::-ms-fill-upper {
   display: -o-flex; }
 
 .contact .map-site .mapinsite .side-contact .line-side-content .info span {
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 16px; }
 
@@ -1790,7 +1793,7 @@ input[type=range]::-ms-fill-upper {
 
 .contact .map-site .mapinsite .side-contact .line-side-content .info .head-info {
   font-size: 20px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   text-transform: uppercase; }
 
@@ -1810,7 +1813,7 @@ input[type=range]::-ms-fill-upper {
 .footer .wrapper-footer .text-in-footer {
   color: #fff;
   font-size: 24px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   display: flex;
   flex-direction: column;
@@ -1823,7 +1826,7 @@ input[type=range]::-ms-fill-upper {
 
 .footer .wrapper-footer .text-in-footer .prava {
   font-size: 18px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400;
   color: #fff;
   margin-top: 20px; }
@@ -1846,7 +1849,7 @@ input[type=range]::-ms-fill-upper {
 .footer .wrapper-footer .callme span {
   color: #fff;
   font-size: 24px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   text-align: center; }
 
@@ -2029,7 +2032,7 @@ input[type=range]::-ms-fill-upper {
     width: 100%;
     padding-bottom: 30px; }
   .wrapper-global .header .header-info .header-info-wrap .header-info-item .logo {
-    width: 100%;
+    width: 80%;
     justify-content: center; }
   .wrapper-global .header .header-info .header-info-wrap .header-info-item .button-header {
     width: 250px;
@@ -2040,8 +2043,8 @@ input[type=range]::-ms-fill-upper {
     align-items: center;
     margin-bottom: 20px; }
   .wrapper-global .header .header-info .header-info-wrap .header-info-item .phone-header {
-    font-size: 16px;
-    width: 200px;
+    font-size: 24px;
+    width: 300px;
     margin: 0 auto;
     margin-bottom: 20px !important; }
   .wrapper-global .header .header-info .header-info-wrap .header-info-item .central-item {
@@ -2140,7 +2143,7 @@ input[type=range]::-ms-fill-upper {
 
 @media (max-width: 600px) {
   .wrapper-global .header .header-info .header-info-wrap .header-info-item .phone-header {
-    font-size: 16px; }
+    font-size: 24px; }
   .wrapper-global .section-calculate form .second-item-line .plosh-block {
     width: 300px; }
   .sale-section .wrapper-sale .right-form {
@@ -2300,7 +2303,7 @@ input[type=range]::-ms-fill-upper {
   text-align: center;
   font-size: 18px;
   color: #363636;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400;
   margin-bottom: 20px;
   border: 1px solid #cfd0d2; }
@@ -2360,7 +2363,16 @@ input[type=range]::-ms-fill-upper {
     display: block;
     width: 100%;
     text-align: center;
-    margin-right: -30px; } }
+    margin-right: -30px;
+    font-size: 18px; }
+  .wrapper-global .first-section-content .slick-list .slick-track .slick-slide .wrap-block h1, .wrapper-global .first-section-content .slick-list .slick-track .slick-slide .wrap-block h1 .blue-color {
+    font-size: 28px;
+    margin: 0; }
+  .wrapper-global .first-section-content .slick-list .slick-track .slick-slide .wrap-block h1 {
+    margin-top: -120px !important; }
+  .wrapper-global .first-section-content .slick-list .slick-track .slick-slide .wrap-block h2 {
+    font-size: 18px;
+    line-height: 26px; } }
 
 @media (max-width: 960px) {
   .wrapper-global .section-calculate form .input-block .input-block-item:not(:last-child) {
@@ -2404,7 +2416,13 @@ input[type=range]::-ms-fill-upper {
     background-size: cover; }
   .wrap-block.img-3 {
     background: url(../img/slider-01.jpg) top center no-repeat;
-    background-size: cover; } }
+    background-size: cover; }
+  .wrapper-global .first-section-content .slick-list .slick-track .slick-slide .wrap-block h1, .wrapper-global .first-section-content .slick-list .slick-track .slick-slide .wrap-block h1 .blue-color {
+    font-size: 24px;
+    margin: 0; }
+  .wrapper-global .first-section-content .slick-list .slick-track .slick-slide .wrap-block h2 {
+    font-size: 16px;
+    line-height: 22px; } }
 
 .product-list .product-grid .product-item a:not(.sub-but) {
   position: relative;

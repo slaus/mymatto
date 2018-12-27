@@ -97,7 +97,7 @@ $(document).ready(function () {
             });
     });
 
-    $('#call, #order').click(function (event) {
+    $('#call, .order').click(function (event) {
         event.preventDefault();
         $('#overlay').fadeIn(400,
             function () {
